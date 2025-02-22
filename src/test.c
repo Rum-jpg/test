@@ -11,5 +11,7 @@ int main(void)
         printf("hahaha");
     }
 
+    printf("%d + %d = %d", 1, 2, 5);
+
     return 0;
 }
